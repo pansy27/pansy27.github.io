@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walls on My new pog website</title>
+    <link>/wall/</link>
+    <description>Recent content in Walls on My new pog website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Mar 2022 22:26:59 +0530</lastBuildDate><atom:link href="/wall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/wall/first/</link>
+      <pubDate>Thu, 31 Mar 2022 22:26:59 +0530</pubDate>
+      
+      <guid>/wall/first/</guid>
+      <description>heylo ! hi ! kthxbye. poggies !!!!!! eeeeeee&amp;hellip;&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
