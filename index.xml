@@ -8,22 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Mar 2022 22:35:21 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>4th</title>
-      <link>/page/4th/</link>
+      <title>Fourth</title>
+      <link>/posts/fourth/</link>
       <pubDate>Thu, 31 Mar 2022 22:35:21 +0530</pubDate>
       
-      <guid>/page/4th/</guid>
-      <description>Escaping backslash with another backslash !!! fourth page \(^_^)/</description>
+      <guid>/posts/fourth/</guid>
+      <description>Escaping backslash with another backslash !!! fourth page \(^_^)/
+nobukatsu !!!!! </description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>/page/third/</link>
+      <link>/posts/third/</link>
       <pubDate>Thu, 31 Mar 2022 22:33:25 +0530</pubDate>
       
-      <guid>/page/third/</guid>
+      <guid>/posts/third/</guid>
       <description>aaaaaaaaaaa!!!!!! third page of my static website !!!!!
-Baal shogun !!!! :D </description>
+Baal Shogun !!!! :D </description>
     </item>
     
     <item>
@@ -32,16 +33,17 @@ Baal shogun !!!! :D </description>
       <pubDate>Thu, 31 Mar 2022 22:29:36 +0530</pubDate>
       
       <guid>/posts/second/</guid>
-      <description>ooeeoooo !!!!!! second page !!!! \(^_^)/  testing&amp;ndash;&amp;gt; image   </description>
+      <description>ooeeoooo !!!!!! Second Page !!!! \(^_^)/  Here goes another image :D   </description>
     </item>
     
     <item>
       <title>First</title>
-      <link>/wall/first/</link>
+      <link>/posts/first/</link>
       <pubDate>Thu, 31 Mar 2022 22:26:59 +0530</pubDate>
       
-      <guid>/wall/first/</guid>
-      <description>heylo ! hi ! kthxbye. poggies !!!!!! eeeeeee&amp;hellip;&amp;hellip;</description>
+      <guid>/posts/first/</guid>
+      <description>heylo ! hi ! kthxbye. eeeeeee&amp;hellip;&amp;hellip;
+What can i say	? finish reading All You Need Is Kill you ducking dolt.</description>
     </item>
     
   </channel>
